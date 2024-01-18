@@ -1,0 +1,3 @@
+[submodule "bwsjs"]
+	path = bwsjs
+	url = https://github.com/djmill0326/bwsjs.git
